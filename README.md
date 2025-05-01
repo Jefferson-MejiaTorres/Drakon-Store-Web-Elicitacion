@@ -4,9 +4,11 @@ Repositorio para el desarrollo del Documento de Requisitos del Sistema (DRS) del
 Este repositorio contiene el desarrollo del Documento de Requisitos del Sistema (DRS) del proyecto "Drakon Store Web", como parte de la asignatura Ingeniería de Software.
 
 ## Integrantes
-- Jefferson Mejía Torres
+- Jefferson David Mejia Torres
 - Luis Miguel Lindarte Contreras
 - Daniel Felipe Contreras Caballero
+- Carlos Andrés Manzano Leal
+- Diego Torres
 
 ## Docente
 Ing. Fanny Casadiego
