@@ -1,0 +1,448 @@
+/* Fuente personalizada */
+body {
+    font-family: 'Montserrat', sans-serif;
+    overflow-x: hidden;
+    background-color: #ffffff;
+    padding-top: 76px;
+    margin: 0;
+}
+
+/* Estilos del logo */
+.drakon-button {
+    background-color: #ffd80a;
+    border-radius: 50px;
+    padding-right: 1.8rem;
+    font-weight: bold;
+    border: 1px solid black;
+    position: relative;
+    overflow: visible;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    height: 44px;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    margin-left: 1.5rem;
+}
+
+.drakon-logo {
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    left: -13px;
+    top: -13px;
+    z-index: 10;
+}
+
+.drakon-text {
+    padding-left: 62px;
+    font-size: 1.1rem;
+    letter-spacing: 0.5px;
+    font-weight: 900;
+}
+
+/* Barra de navegación */
+.nav-buttons {
+    background-color: black;
+    color: white;
+    padding: 0.25rem 1.5rem;
+    border-radius: 50px;
+    gap: 2rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    height: 48px;
+    align-items: center;
+}
+
+.nav-btn {
+    background: transparent;
+    font-weight: bold;
+    padding: 0;
+    border-radius: 8px;
+    transition: all 0.3s;
+    letter-spacing: 2px;
+    font-size: 1rem;
+    height: 85%;
+    display: flex;
+    align-items: center;
+    border: none;
+    color: white;
+    cursor: pointer;
+    padding: 0 15px;
+}
+
+.nav-btn:hover {
+    background: #ffd80a;
+    color: black;
+}
+
+/* Botones de icono */
+.icon-btn {
+    width: 48px;
+    height: 48px;
+    background: black;
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: 0.3s;
+    font-size: 1.3rem;
+    position: relative;
+    border: none;
+    cursor: pointer;
+}
+
+.icon-btn:hover {
+    background: #ffd80a;
+    color: black;
+}
+
+/* Contadores */
+.counter {
+    top: -8px;
+    right: -8px;
+    background: #ffd80a;
+    color: black;
+    font-weight: bold;
+    padding: 0.25rem 0.5rem;
+    border-radius: 50%;
+    font-size: 0.8rem;
+    border: 2px solid black;
+    min-width: 24px;
+    text-align: center;
+}
+
+/* Botón del carrito */
+.cart-btn-container {
+    height: 48px;
+    position: relative;
+    cursor: pointer;
+    margin-right: 15px;
+    width: 180px;
+}
+
+.cart-btn-main {
+    background: black;
+    color: white;
+    height: 48px;
+    width: 150px;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+    letter-spacing: 1px;
+    font-size: 0.9rem;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+}
+
+.cart-btn-counter {
+    background: #ffd80a;
+    color: black;
+    font-weight: bold;
+    font-size: 1.1rem;
+    height: 48px;
+    width: 70px;
+    border-radius: 50px;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding-right: 12px;
+    position: absolute;
+    top: 0;
+    left: 107px;
+    z-index: 1;
+    transition: transform 0.2s cubic-bezier(.4,2,.6,1);
+}
+
+/* Sección de edición limitada */
+.sidebar-container {
+    position: fixed;
+    top: 76px;
+    left: 0;
+    width: 25%;
+    height: calc(100vh - 76px);
+    border-right: none;
+    display: flex;
+    align-items: flex-start;
+    padding-top: 0;
+    overflow: hidden;
+    background-color: #ffffff;
+}
+
+.sidebar-container:after {
+    display: none;
+}
+
+.sidebar-content {
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    padding-top: 1rem;
+    height: 100%;
+    padding-bottom: 5%;
+}
+
+.limited-edition-title {
+    font-size: 2.7rem;
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 0.1rem;
+    line-height: 1;
+    position: relative;
+    color: #000;
+}
+
+/* Simplificando el efecto de goteo para ser más fiel a la imagen */
+.limited-edition-title:after {
+    content: none;
+}
+
+.edition-subtitle {
+    font-size: 1rem;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+    margin-bottom: 2rem;
+    opacity: 0.5;
+}
+
+.product-showcase img {
+    background-color: #fff;
+    width: 100%;
+    max-width: 220px;
+    height: auto;
+    object-fit: contain;
+    margin: 0 auto;
+    transition: transform 0.5s ease;
+}
+
+.product-showcase img:hover {
+    transform: scale(1.1);
+}
+
+.fan-text {
+    font-size: 1.1rem;
+    color: #333;
+    margin: 0 auto;
+    max-width: 80%;
+    text-align: center;
+    font-weight: 500;
+    line-height: 1.4;
+}
+
+/* Botón Ver Colección */
+.btn-warning {
+    background-color: #ffd80a;
+    border: none;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    width: fit-content;
+    border-radius: 50px;
+    font-weight: bold;
+    padding: 0.6rem 1.8rem;
+    font-size: 1rem;
+    margin: 1.5rem 0;
+}
+
+/* Cambio para el botón Ver Colección */
+.coleccion-btn {
+    background-color: #ffd80a; /* mismo color amarillento que Drakon Store */
+    border: 1px solid black;   /* mismo estilo de borde */
+    height: 44px;              /* mismo alto que el botón de Drakon Store */
+    border-radius: 50px;
+    padding: 0 1.8rem;
+    font-weight: bold;
+    font-size: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* opcional: margin ya aplicado desde index.html con mx-auto */
+}
+
+/* Productos */
+.product {
+    background-color: #fff;
+    padding: 1.25rem;
+    border-radius: 15px;
+    position: relative;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+    transition: transform 0.3s;
+    overflow: hidden;
+}
+
+.product:hover {
+    transform: translateY(-5px);
+}
+
+.product img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    aspect-ratio: 1/1;
+    border-radius: 10px;
+}
+
+.product .category-text {
+    color: #777;
+    font-size: 0.85rem;
+    text-transform: uppercase;
+}
+
+.product h3 {
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.price-text {
+    font-weight: 700;
+    font-size: 1.1rem;
+}
+
+.favorite-btn {
+    position: absolute;
+    top: 15px; /* se aumentó de 10px para ubicarlo más abajo */
+    right: 10px;
+    background: white;
+    color: #ccc;
+    border-radius: 50%;
+    padding: 0.5rem;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: 0.3s;
+    border: none;
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+    z-index: 10;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.favorite-btn.active {
+    color: red;
+}
+
+/* Aumentar tamaño del icono de favorito */
+.favorite-btn i {
+    font-size: 1.4rem; /* se redujo de 1.6rem para hacerlo un poco más pequeño */
+}
+
+/* Barra de navegación fija */
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: #ffffff;
+    z-index: 1000;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    box-shadow: none;
+    border-bottom: none;
+}
+
+header::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ffffff;
+    z-index: -1;
+}
+
+header:after {
+    display: none;
+}
+
+/* Clase para aplicar con JavaScript cuando se hace scroll */
+.header-scrolled {
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+}
+
+/* Ajustar la sección de productos para que se desplace */
+.col-md-9 {
+    margin-left: 25%;
+}
+
+/* Responsive */
+@media (max-width: 992px) {
+    .nav-buttons {
+        gap: 1rem;
+        padding: 0.5rem 1rem;
+    }
+    
+    .drakon-button {
+        padding-right: 0.75rem;
+        height: 38px;
+    }
+    
+    .drakon-logo {
+        width: 60px;
+        height: 60px;
+        left: -10px;
+        top: -11px;
+    }
+    
+    .drakon-text {
+        padding-left: 55px;
+        font-size: 1rem;
+    }
+    
+    .limited-edition-title {
+        font-size: 2.5rem;
+    }
+}
+
+@media (max-width: 768px) {
+    header {
+        flex-direction: column;
+        gap: 0.75rem;
+        padding: 0.5rem 0;
+    }
+    
+    aside, main {
+        width: 100%;
+        padding: 0.75rem;
+    }
+    
+    .sidebar-container:after {
+        display: none;
+    }
+    
+    .nav-buttons {
+        flex-direction: column;
+        gap: 0.25rem;
+        padding: 0.5rem;
+        height: auto;
+    }
+    
+    .drakon-button {
+        height: 36px;
+    }
+    
+    .drakon-logo {
+        width: 50px;
+        height: 50px;
+        left: -8px;
+        top: -9px;
+    }
+    
+    .drakon-text {
+        padding-left: 45px;
+        font-size: 0.9rem;
+    }
+    
+    .limited-edition-title {
+        font-size: 2rem;
+    }
+}
