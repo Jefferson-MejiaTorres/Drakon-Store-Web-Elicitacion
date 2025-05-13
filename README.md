@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<img src="Documentos/images/Logo.png" alt="Logo Drakon Store" width="30%">
+<img src="Drakon-Store-Base/images/Logo.png" alt="Logo Drakon Store" width="200">
 </div>
 
 # Drakon-Store-Web-Elicitacion

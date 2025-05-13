@@ -7,3 +7,6 @@
 | 3  | 08/05/2025  | Actualización del README con integrantes y contenido | Carlos Manzano         |
 | 4  | 08/05/2025  | Inclusión del Código de Conducta               | Jefferson Torres       |
 | 5  | 08/05/2025  | Creación del archivo Contribuciones.md         | Luis Miguel Lindarte   |
+| 6  | 12/05/2025  | Creación del documento DRS Tarea 2 (Elicitación y negociación) | Jefferson Mejía Torres |
+| 7  | 13/05/2025  | Creación del documento DRS Tarea 3 (Objetivos del sistema) | Jefferson Mejía Torres |
+| 8  | 13/05/2025  | Actualización de README y hoja de versiones para reflejar nuevas tareas y corrección de ruta de logo | GitHub Copilot         |
