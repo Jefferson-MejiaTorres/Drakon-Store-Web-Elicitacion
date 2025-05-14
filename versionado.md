@@ -9,4 +9,5 @@
 | 5  | 08/05/2025  | Creación del archivo Contribuciones.md         | Luis Miguel Lindarte   |
 | 6  | 12/05/2025  | Creación del documento DRS Tarea 2 (Elicitación y negociación) | Jefferson Mejía Torres |
 | 7  | 13/05/2025  | Creación del documento DRS Tarea 3 (Objetivos del sistema) | Jefferson Mejía Torres |
+| 8  | 13/05/2025  | Creación del documento DRS Tarea 4 (Requisitos de información) | Diego Torres          |
 

@@ -39,5 +39,5 @@ Se utilizaron las plantillas de requisitos de almacenamiento y restricciones de 
 * Especificar requisitos funcionales y no funcionales detallados (Tarea 5).
 * Validar los requisitos de información con los usuarios y el equipo de desarrollo.
 
-**Autor:** Jefferson Mejía Torres  
+**Autor:** Diego Torres  
 **Revisado por:** Equipo Drakon Store
