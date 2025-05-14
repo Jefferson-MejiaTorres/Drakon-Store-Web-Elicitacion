@@ -69,7 +69,7 @@ Esta tarea documenta la preparación y realización de reuniones de elicitación
 
 ## 8. Próximos pasos
 
-* Documentar requisitos funcionales y no funcionales (Tarea 3).
+* Identificar y documentar los objetivos del sistema (Tarea 3).
 * Elaborar prototipos iniciales de la plataforma web.
 
 **Autor:** Jefferson Mejía Torres  

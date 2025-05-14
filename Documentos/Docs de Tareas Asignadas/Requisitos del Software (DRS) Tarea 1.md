@@ -83,7 +83,7 @@ Drakon Store opera actualmente bajo un modelo físico con los siguientes proceso
 ---
 
 **Próximos pasos**:
-* Priorizar requisitos funcionales (Tarea 2).
+* Preparar y realizar reuniones de elicitación/negociación (Tarea 2).
 * Diseñar diagramas de casos de uso para la plataforma web.
 
 **Autor:** Jefferson Mejía Torres  

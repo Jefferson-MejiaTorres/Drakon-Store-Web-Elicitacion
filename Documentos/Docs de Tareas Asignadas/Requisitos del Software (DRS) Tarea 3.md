@@ -26,7 +26,7 @@ Se utilizó el análisis de factores críticos de éxito (MAP 1995) y la plantil
 
 ## 4. Próximos pasos
 
-* Especificar requisitos funcionales y no funcionales detallados (Tarea 4).
+* Identificar y documentar los requisitos de información (Tarea 4).
 * Validar los objetivos con los usuarios y el equipo de desarrollo.
 
 **Autor:** Jefferson Mejía Torres  
