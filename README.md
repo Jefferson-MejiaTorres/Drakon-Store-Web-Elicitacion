@@ -23,12 +23,12 @@
 - [Estructura del Proyecto](#estructura-del-proyecto)
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
 - [Características y Funcionalidades](#características-y-funcionalidades)
-- [Diseño Responsivo](#diseño-responsivo)
-- [Cómo Ejecutar el Proyecto](#cómo-ejecutar-el-proyecto)
-- [Documentación DRS](#documentación-drs)
-- [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
-- [Autor y Docente](#autor-y-docente)
+- [Diseño Responsivo](#%EF%B8%8F-diseño-responsivo)
+- [Cómo Ejecutar el Proyecto](#%EF%B8%8F-cómo-ejecutar-el-proyecto)
+- [Documentación DRS](#%EF%B8%8F-documentación-drs)
+- [Contribuciones](#%EF%B8%8F-contribuciones)
+- [Licencia](#%EF%B8%8F-licencia)
+- [Autor y Docente](#%EF%B8%8F-autor-y-docente)
 
 ---
 
