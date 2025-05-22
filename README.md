@@ -3,7 +3,7 @@
   <img src="Drakon-Store-Base/images/Logo.png" alt="Logo Drakon Store" width="140">
 </p>
 
-<h1 align="center">🧢 Drakon Store Web - Elicitación de Requisitos</h1>
+<h1 align="center">Drakon Store Web - Elicitación de Requisitos</h1>
 
 <p align="center">
   <a href="https://drakon-store-web.vercel.app/" target="_blank"><strong>🌐 Visita la página desplegada en Vercel</strong></a>
