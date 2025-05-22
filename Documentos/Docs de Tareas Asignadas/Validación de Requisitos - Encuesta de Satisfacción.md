@@ -15,9 +15,9 @@ Evaluar el nivel de satisfacción de los usuarios respecto a la usabilidad, dise
 ## 3. Metodología
 
 - **Tipo de encuesta:** Cuantitativa, anónima, autoadministrada en línea.
-- **Muestra:** [Indicar número de participantes y perfil, por ejemplo: 15 usuarios frecuentes y 5 nuevos]
+- **Muestra:** 
 - **Instrumento:** Formulario digital con preguntas cerradas y escala de satisfacción (1 a 5).
-- **Fecha de aplicación:** [Indicar fecha]
+- **Fecha de aplicación:** 
 
 ## 4. Preguntas de la Encuesta
 
@@ -32,7 +32,6 @@ Evaluar el nivel de satisfacción de los usuarios respecto a la usabilidad, dise
 
 ## 5. Resultados
 
-[Insertar aquí tablas y/o gráficos con los resultados. Ejemplo:]
 
 | Pregunta | Promedio | Desviación estándar |
 |----------|----------|---------------------|
@@ -58,9 +57,9 @@ Evaluar el nivel de satisfacción de los usuarios respecto a la usabilidad, dise
 
 ## 8. Anexos
 
-- Instrumento completo de la encuesta (si aplica)
+- Instrumento completo de la encuesta 
 - Gráficos detallados
-- Respuestas textuales completas (si es necesario)
+- Respuestas textuales completas 
 
-**Autor:** [Nombre del responsable]  
+**Autor:** Jefferson Torres
 **Revisado por:** Equipo Drakon Store
