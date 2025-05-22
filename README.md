@@ -6,6 +6,12 @@
 <img src="Drakon-Store-Base/images/Logo.png" alt="Logo Drakon Store" width="200">
 </div>
 
+<div align="center">
+<a href="https://drakon-store-web.vercel.app/" target="_blank" style="font-size:1.2em; font-weight:bold; color:#ffd80a; text-decoration:none;">
+🌐 Visita la página desplegada de Drakon Store (Vercel)
+</a>
+</div>
+
 # Drakon-Store-Web-Elicitacion
 Repositorio para el desarrollo del Documento de Requisitos del Sistema (DRS) del proyecto Drakon Store Web, como parte de la asignatura Ingeniería de Software. Incluye elicitación de requisitos, análisis, diagramas y control de versiones.
 
