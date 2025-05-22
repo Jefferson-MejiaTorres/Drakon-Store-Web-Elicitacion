@@ -75,7 +75,7 @@ Cada diagrama incluido responde a la necesidad de documentar distintos aspectos 
 
 ### 4.5 Diagrama de Arquitectura (opcional)
 
-*No se adjunta diagrama de arquitectura en esta entrega. (Puedes agregarlo si lo tienes en la carpeta Imagenes)*
+
 
 ## 5. Conclusiones
 
