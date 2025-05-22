@@ -11,5 +11,7 @@
 | 7  | 13/05/2025  | Creación del documento DRS Tarea 3 (Objetivos del sistema) | Jefferson Mejía Torres |
 | 8  | 13/05/2025  | Creación del documento DRS Tarea 4 (Requisitos de información) | Diego Torres          |
 | 9  | 14/05/2025  | Creación del documento DRS Tarea 5 (Requisitos funcionales) | Jefferson Torres          |
-| 10 | 20/05/2025  | Creación del documento DRS Tarea 6 (Requisitos no funcionales) | Daneil Contreras          |
+| 10 | 20/05/2025  | Creación del documento DRS Tarea 6 (Requisitos no funcionales) | Daniel Contreras          |
+| 11 | 22/05/2025  | Creación del documento de Validación de Requisitos (Encuesta de Satisfacción) | Jefferson Mejía Torres |
+| 12 | 22/05/2025  | Creación del documento de Diagramas del Sistema | Jefferson Mejía Torres |
 

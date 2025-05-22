@@ -27,41 +27,55 @@ Cada diagrama incluido responde a la necesidad de documentar distintos aspectos 
 
 ### 4.1 Diagrama de Casos de Uso
 
-![Casos de Uso](ruta/diagrama-casos-uso.png)
+![Casos de Uso](Imagenes/Diagrama%20de%20Caso%20de%20Uso%20(Registro).png)
 
 **Descripción:**
-- Explica los actores principales y los casos de uso identificados.
-- Relaciona cada caso de uso con los requisitos funcionales.
+- Muestra el proceso de registro de usuario en el sistema, identificando los actores principales (usuario, sistema) y los pasos clave.
+- Relaciona el caso de uso con los requisitos funcionales de registro y autenticación.
 
-### 4.2 Diagrama de Clases
+### 4.2 Diagrama de Clases / Modelo de Datos
 
-![Clases](ruta/diagrama-clases.png)
-
-**Descripción:**
-- Presenta las entidades principales, atributos y relaciones.
-- Relación con los requisitos de información.
-
-### 4.3 Diagrama de Secuencia
-
-![Secuencia](ruta/diagrama-secuencia.png)
+![Modelo de Datos](Imagenes/Diagrama%20Modelo%20De%20Datos.jpg)
 
 **Descripción:**
-- Ejemplo de flujo: registro de pedido o proceso de compra.
-- Explica la interacción entre usuario, sistema y pasarela de pago.
+- Presenta las entidades principales del sistema, sus atributos y las relaciones entre ellas.
+- Relaciona la estructura de datos con los requisitos de información y las reglas de negocio documentadas.
 
-### 4.4 Diagrama de Actividades
+### 4.3 Diagramas de Secuencia
 
-![Actividades](ruta/diagrama-actividades.png)
+**Registro paso a paso:**
+
+![Secuencia 1](Imagenes/Diagrama%20de%20Secuencia(Paso%20a%20%20Paso).png)
+
+**Continuación:**
+
+![Secuencia 2](Imagenes/Diagrama%20de%20Secuencia(Paso%20a%20%20Paso)%20Parte%202.png)
 
 **Descripción:**
-- Muestra el flujo de actividades para un proceso clave (ejemplo: gestión de inventario).
+- Representan el flujo detallado de interacción entre usuario y sistema durante el proceso de registro y validación.
+- Explican cómo se gestionan los datos y las respuestas del sistema en cada paso.
+
+### 4.4 Diagramas de Actividades
+
+**Compra:**
+
+![Actividad Compra](Imagenes/Diagrama%20de%20Actividad(Compra).png)
+
+**Inicio de Sesión Usuario:**
+
+![Actividad Inicio de Sesión](Imagenes/Diagrama%20de%20Actividad(Inicio%20de%20Sesi%C3%B3n%20Usuario).png)
+
+**Registro:**
+
+![Actividad Registro](Imagenes/Diagrama%20de%20Actividad(Registro).png)
+
+**Descripción:**
+- Cada diagrama muestra el flujo de actividades para procesos clave: compra, inicio de sesión y registro.
+- Permiten visualizar las decisiones, validaciones y estados involucrados en cada proceso.
 
 ### 4.5 Diagrama de Arquitectura (opcional)
 
-![Arquitectura](ruta/diagrama-arquitectura.png)
-
-**Descripción:**
-- Explica la estructura general del sistema (front, back, base de datos, integraciones externas).
+*No se adjunta diagrama de arquitectura en esta entrega. (Puedes agregarlo si lo tienes en la carpeta Imagenes)*
 
 ## 5. Conclusiones
 
