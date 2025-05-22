@@ -17,25 +17,25 @@
 
 ---
 
-# 📑 Tabla de Contenidos
+# Tabla de Contenidos
 - [Descripción del Proyecto](#descripción-del-proyecto)
 - [Integrantes](#integrantes)
 - [Estructura del Proyecto](#estructura-del-proyecto)
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
 - [Características y Funcionalidades](#características-y-funcionalidades)
-- [Diseño Responsivo](#%EF%B8%8F-diseño-responsivo)
-- [Cómo Ejecutar el Proyecto](#%EF%B8%8F-cómo-ejecutar-el-proyecto)
-- [Documentación DRS](#%EF%B8%8F-documentación-drs)
-- [Contribuciones](#%EF%B8%8F-contribuciones)
-- [Licencia](#%EF%B8%8F-licencia)
-- [Autor y Docente](#%EF%B8%8F-autor-y-docente)
+- [Diseño Responsivo](#diseño-responsivo)
+- [Cómo Ejecutar el Proyecto](#cómo-ejecutar-el-proyecto)
+- [Documentación DRS](#documentación-drs)
+- [Contribuciones](#contribuciones)
+- [Licencia](#licencia)
+- [Autor y Docente](#autor-y-docente)
 
 ---
 
-# 📖 Descripción del Proyecto
+# Descripción del Proyecto
 Drakon Store Web es una plataforma de comercio electrónico especializada en la venta de gorras, diseñada para expandir el alcance de la tienda física y mejorar la experiencia de compra de los clientes. El proyecto automatiza las ventas en línea, optimiza la gestión del inventario y proporciona una interfaz intuitiva y moderna.
 
-# 👥 Integrantes
+# Integrantes
 | Nombre                                 | Rol                  |
 |----------------------------------------|----------------------|
 | Jefferson David Mejía Torres           | Analista / Desarrollador |
@@ -44,7 +44,7 @@ Drakon Store Web es una plataforma de comercio electrónico especializada en la 
 | Carlos Andrés Manzano Leal             | Analista / Desarrollador |
 | Diego Torres                           | Analista / Desarrollador |
 
-# 🗂️ Estructura del Proyecto
+# Estructura del Proyecto
 ```text
 Drakon-Store-Web-Elicitacion/
 ├── Drakon-Store-Base/
@@ -66,7 +66,7 @@ Drakon-Store-Web-Elicitacion/
 └── Proyecto De Ingenieria Del sofware.docx
 ```
 
-# 🛠️ Tecnologías Utilizadas
+# Tecnologías Utilizadas
 - **HTML5**: Estructura semántica del contenido
 - **CSS3**: Estilos personalizados, animaciones y diseño responsivo
 - **JavaScript (ES6+)**: Funcionalidades dinámicas y manipulación del DOM
@@ -75,7 +75,7 @@ Drakon-Store-Web-Elicitacion/
 - **Google Fonts**: Fuentes personalizadas (Montserrat, Nosifer, Raddit Sans)
 - **LocalStorage API**: Persistencia de datos del lado del cliente
 
-# ✨ Características y Funcionalidades
+# Características y Funcionalidades
 - **Header Dinámico**: Cambia su apariencia al hacer scroll
 - **Menú Responsivo**: Se adapta según el tamaño de pantalla
 - **Iconografía Intuitiva**: Sistema visual coherente para toda la interfaz
@@ -90,14 +90,14 @@ Drakon-Store-Web-Elicitacion/
 - **LocalStorage**: Guarda selección de favoritos entre sesiones
 - **Navegación entre Páginas**: Mantiene el estado del carrito y favoritos
 
-# 📱 Diseño Responsivo
+# Diseño Responsivo
 El sitio está completamente optimizado para diferentes tamaños de pantalla:
 - **Escritorio**: Experiencia completa con sidebar de edición limitada
 - **Tablet**: Reorganización del contenido para mejor visualización
 - **Móvil**: Interfaz optimizada con controles adaptados para pantallas táctiles
 - **Dispositivos pequeños**: Diseño ultra compacto manteniendo todas las funcionalidades
 
-# 🚀 Cómo Ejecutar el Proyecto
+# Cómo Ejecutar el Proyecto
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/JeffersonMejia/Drakon-Store-Web-Elicitacion.git
@@ -113,7 +113,7 @@ El sitio está completamente optimizado para diferentes tamaños de pantalla:
 
 No requiere instalación de dependencias adicionales ni configuración de servidor para su funcionamiento básico.
 
-# 📚 Documentación DRS
+# Documentación DRS
 | Documento | Descripción | Enlace |
 |-----------|-------------|--------|
 | Tarea 1   | Contexto y sistema actual | [Ver](Documentos/Docs%20de%20Tareas%20Asignadas/Requisitos%20del%20Software%20(DRS)%20Tarea%201.md) |
@@ -124,19 +124,19 @@ No requiere instalación de dependencias adicionales ni configuración de servid
 | Tarea 6   | Requisitos no funcionales | [Ver](Documentos/Docs%20de%20Tareas%20Asignadas/Requisitos%20del%20Software%20(DRS)%20Tarea%206.md) |
 | Hoja de versiones | Cambios y autoría | [Ver](versionado.md) |
 
-# 🤝 Contribuciones
+# Contribuciones
 Si deseas contribuir al proyecto, por favor revisa nuestro archivo [Contribuciones.md](Contribuciones.md) donde encontrarás las pautas para:
 - Reportar bugs o problemas
 - Sugerir nuevas características
 - Proceso para enviar pull requests
 - Estándares de código
 
-# 📝 Licencia
+# Licencia
 Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
 
-# 👤 Autor y Docente
-- **Autor principal:** Equipo De Desarrollo de Software Drakon Store
-- **Docente:** Ing. Fanny Casadiego
+# Autor y Docente
+- Autor principal: Equipo De Desarrollo de Software Drakon Store
+- Docente: Ing. Fanny Casadiego
 
 ---
 
