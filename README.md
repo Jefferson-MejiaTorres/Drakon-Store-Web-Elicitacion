@@ -122,6 +122,8 @@ No requiere instalación de dependencias adicionales ni configuración de servid
 | Tarea 4   | Requisitos de información | [Ver](Documentos/Docs%20de%20Tareas%20Asignadas/Requisitos%20del%20Software%20(DRS)%20Tarea%204.md) |
 | Tarea 5   | Requisitos funcionales | [Ver](Documentos/Docs%20de%20Tareas%20Asignadas/Requisitos%20del%20Software%20(DRS)%20Tarea%205.md) |
 | Tarea 6   | Requisitos no funcionales | [Ver](Documentos/Docs%20de%20Tareas%20Asignadas/Requisitos%20del%20Software%20(DRS)%20Tarea%206.md) |
+| Validación de requisitos | Encuesta de satisfacción de usuarios | [Ver](Documentos/Docs%20de%20Tareas%20Asignadas/Validaci%C3%B3n%20de%20Requisitos%20-%20Encuesta%20de%20Satisfacci%C3%B3n.md) |
+| Diagramas del sistema | Diagramas de casos de uso, clases, secuencia, actividades y arquitectura | [Ver](Documentos/Docs%20de%20Tareas%20Asignadas/Diagramas%20del%20Sistema.md) |
 | Hoja de versiones | Cambios y autoría | [Ver](versionado.md) |
 
 # Contribuciones
