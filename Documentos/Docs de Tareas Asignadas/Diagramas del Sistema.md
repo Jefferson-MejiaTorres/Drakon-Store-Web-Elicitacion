@@ -81,5 +81,5 @@ Cada diagrama incluido responde a la necesidad de documentar distintos aspectos 
 
 Los diagramas presentados permiten comprender de manera integral el funcionamiento y la estructura del sistema Drakon Store Web, facilitando la validación y comunicación de los requisitos y soluciones propuestas.
 
-**Autor:** Jefferson Torres 
+**Autor:** Jefferson Torres
 **Revisado por:** Equipo Drakon Store
