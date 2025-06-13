@@ -57,8 +57,10 @@ Cada diagrama incluido responde a la necesidad de documentar distintos aspectos 
 - Explican cómo se gestionan los datos y las respuestas del sistema en cada paso.
 
 **Registro paso a paso compra:**
-![Diagrama de Registro Parte 1](ruta/diagrama_registro_parte1.png)
-![Diagrama de Registro Parte 2](ruta/diagrama_registro_parte2.png)
+![Diagrama de Registro Parte 1](/Imagenes/Diagrama%20de%20secuencia%20compra(Paso%20a%20Paso)%20parte%201.png)
+
+
+![Diagrama de Registro Parte 2](/Imagenes/Diagrama%20de%20secuencia%20compra(Paso%20a%20Paso)%20parte%202.png)
 
 **Descripción:**
 - Muestra paso a paso la interacción entre el usuario y el sistema durante el registro.
