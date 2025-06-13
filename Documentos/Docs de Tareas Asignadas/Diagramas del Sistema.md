@@ -47,6 +47,7 @@ Cada diagrama incluido responde a la necesidad de documentar distintos aspectos 
 
 ![Secuencia 1](Imagenes/Diagrama%20de%20Secuencia(Paso%20a%20%20Paso).png)
 
+
 **Continuación:**
 
 ![Secuencia 2](Imagenes/Diagrama%20de%20Secuencia(Paso%20a%20%20Paso)%20Parte%202.png)
@@ -55,6 +56,11 @@ Cada diagrama incluido responde a la necesidad de documentar distintos aspectos 
 - Representan el flujo detallado de interacción entre usuario y sistema durante el proceso de registro y validación.
 - Explican cómo se gestionan los datos y las respuestas del sistema en cada paso.
 
+**Registro paso a paso compra:**
+![Secuencia 1](Documentos/Docs de Tareas Asignadas/Imagenes/Diagrama de secuencia compra(Paso a Paso) parte 1.png)
+
+
+![Secuencia 1](Documentos/Docs de Tareas Asignadas/Imagenes/Diagrama de secuencia compra(Paso a Paso) parte 2.png)
 ### 4.4 Diagramas de Actividades
 
 **Compra:**
