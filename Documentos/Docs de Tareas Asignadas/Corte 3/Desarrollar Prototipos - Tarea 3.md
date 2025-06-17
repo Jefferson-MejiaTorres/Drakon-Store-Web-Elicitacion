@@ -41,28 +41,28 @@ A continuación se presentan las imágenes del prototipo de la interfaz de usuar
 </p>
 
 <p align="center">
-  <img src="../Imagenes/Corte%203/prototipo_carrito.png" alt="Carrito de compras" width="800">
+  <img src="../Imagenes/Corte%203/prototipo_carrito.png" alt="Carrito de compras" height="600">
 </p>
 <p align="center">
   <em>Prototipo 4: Carrito de compras</em>
 </p>
 
 <p align="center">
-  <img src="../Imagenes/Corte%203/prototipo_registro.png" alt="Registro de usuario" width="800">
+  <img src="../Imagenes/Corte%203/prototipo_registro.png" alt="Registro de usuario" height="600">
 </p>
 <p align="center">
   <em>Prototipo 5: Registro de usuario</em>
 </p>
 
 <p align="center">
-  <img src="../Imagenes/Corte%203/prototipo_login.png" alt="Inicio de sesión" width="800">
+  <img src="../Imagenes/Corte%203/prototipo_login.png" alt="Inicio de sesión" height="600">
 </p>
 <p align="center">
   <em>Prototipo 6: Inicio de sesión</em>
 </p>
 
 <p align="center">
-  <img src="../Imagenes/Corte%203/prototipo_perfil_usuario.png" alt="Perfil de usuario" width="800">
+  <img src="../Imagenes/Corte%203/prototipo_perfil_usuario.png" alt="Perfil de usuario" height="600">
 </p>
 <p align="center">
   <em>Prototipo 7: Perfil de usuario</em>
