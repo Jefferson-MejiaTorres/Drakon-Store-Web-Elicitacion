@@ -55,7 +55,11 @@ Drakon-Store-Web-Elicitacion/
 │   │   ├── Requisitos del Software (DRS) Tarea 3.md
 │   │   ├── Requisitos del Software (DRS) Tarea 4.md
 │   │   ├── Requisitos del Software (DRS) Tarea 5.md
-│   │   └── Requisitos del Software (DRS) Tarea 6.md
+│   │   ├── Requisitos del Software (DRS) Tarea 6.md
+│   │   └── Corte 3/
+│   │       ├── README-Tarea2-ModeloComportamiento.md   # Resumen Tarea 2: Modelo de comportamiento
+│   │       ├── Desarrollar Prototipos - Tarea 3.md     # Documento Tarea 3: Prototipos
+│   │       ├── ...
 │   ├── versionado.md        # Hoja de versiones
 ├── README.md                # Documentación del proyecto
 ├── versionado.md            # Hoja de versiones del proyecto
