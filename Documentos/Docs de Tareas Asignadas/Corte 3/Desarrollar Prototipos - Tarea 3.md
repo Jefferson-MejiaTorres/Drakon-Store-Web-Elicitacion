@@ -20,13 +20,13 @@ El prototipo no será la base del desarrollo final, sino una herramienta de vali
 - **Prototipo del sistema:**  
   A continuación se presentan las imágenes del prototipo de la interfaz de usuario, ubicadas en la carpeta `Imagenes/Corte 3/`:
 
-  - ![Pantalla de inicio](Imagenes/Corte%203/prototipo_inicio.png)
-  - ![Catálogo de productos](Imagenes/Corte%203/prototipo_catalogo.png)
-  - ![Detalle de producto](Imagenes/Corte%203/prototipo_detalle_producto.png)
-  - ![Carrito de compras](Imagenes/Corte%203/prototipo_carrito.png)
-  - ![Registro de usuario](Imagenes/Corte%203/prototipo_registro.png)
-  - ![Inicio de sesión](Imagenes/Corte%203/prototipo_login.png)
-  - ![Perfil de usuario](Imagenes/Corte%203/prototipo_perfil_usuario.png)
+  - ![Pantalla de inicio](./Imagenes/Corte%203/prototipo_inicio.png)
+  - ![Catálogo de productos](./Imagenes/Corte%203/prototipo_catalogo.png)
+  - ![Detalle de producto](./Imagenes/Corte%203/prototipo_detalle_producto.png)
+  - ![Carrito de compras](./Imagenes/Corte%203/prototipo_carrito.png)
+  - ![Registro de usuario](./Imagenes/Corte%203/prototipo_registro.png)
+  - ![Inicio de sesión](./Imagenes/Corte%203/prototipo_login.png)
+  - ![Perfil de usuario](./Imagenes/Corte%203/prototipo_perfil_usuario.png)
 
   > **Ubicación:**  
   > `Documentos/Docs de Tareas Asignadas/Corte 3/Imagenes/Corte 3/`

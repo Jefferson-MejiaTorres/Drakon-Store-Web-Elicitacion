@@ -38,11 +38,9 @@ Drakon Store Web es una plataforma de comercio electrónico especializada en la 
 # Integrantes
 | Nombre                                 | Rol                  |
 |----------------------------------------|----------------------|
-| Jefferson David Mejía Torres           | Analista / Desarrollador |
+| Jefferson Mejía Torres                 | Analista / Desarrollador |
 | Luis Miguel Lindarte Contreras         | Analista / Desarrollador |
 | Daniel Felipe Contreras Caballero      | Analista / Desarrollador |
-| Carlos Andrés Manzano Leal             | Analista / Desarrollador |
-| Diego Torres                           | Analista / Desarrollador |
 
 # Estructura del Proyecto
 ```text

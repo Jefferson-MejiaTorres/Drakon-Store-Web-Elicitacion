@@ -14,4 +14,5 @@
 | 10 | 20/05/2025  | Creación del documento DRS Tarea 6 (Requisitos no funcionales) | Daniel Contreras          |
 | 11 | 22/05/2025  | Creación del documento de Validación de Requisitos (Encuesta de Satisfacción) | Jefferson Mejía Torres |
 | 12 | 22/05/2025  | Creación del documento de Diagramas del Sistema | Jefferson Mejía Torres |
+| 13 | 17/06/2025  | Creación y documentación de la Tarea 3: Desarrollar prototipos (incluye imágenes de prototipo en Corte 3). | Luis Miguel Lindarte, Daniel Contreras, Jefferson Mejía Torres |
 
