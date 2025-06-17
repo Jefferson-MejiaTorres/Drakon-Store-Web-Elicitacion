@@ -17,15 +17,85 @@ El prototipo no será la base del desarrollo final, sino una herramienta de vali
 
 ## 3. Productos entregables
 
-- **Prototipo del sistema:**  
-  A continuación se presentan las imágenes del prototipo de la interfaz de usuario, ubicadas en la carpeta `Imagenes/Corte 3/`:
-  - ![Pantalla de inicio](../Imagenes/Corte%203/prototipo_inicio.png)
-  - ![Catálogo de productos](../Imagenes/Corte%203/prototipo_catalogo.png)
-  - ![Detalle de producto](../Imagenes/Corte%203/prototipo_detalle_producto.png)
-  - ![Carrito de compras](../Imagenes/Corte%203/prototipo_carrito.png)
-  - ![Registro de usuario](../Imagenes/Corte%203/prototipo_registro.png)
-  - ![Inicio de sesión](../Imagenes/Corte%203/prototipo_login.png)
-  - ![Perfil de usuario](../Imagenes/Corte%203/prototipo_perfil_usuario.png)
+## Diagramas del Sistema
+
+### 1. Diagrama de Secuencia: Proceso de Ingreso y Compra
+
+#### Parte 1 - Ingreso y Selección
+<p align="center">
+  <img src="../Imagenes/Diagrama de secuencia compra(Paso a Paso) parte 1.png" alt="Diagrama de Secuencia - Parte 1" width="800">
+</p>
+<p align="center">
+  <em>Diagrama 1: Secuencia de ingreso y selección de productos</em>
+</p>
+
+#### Parte 2 - Proceso de Pago
+<p align="center">
+  <img src="../Imagenes/Diagrama de secuencia compra(Paso a Paso) parte 2.png" alt="Diagrama de Secuencia - Parte 2" width="800">
+</p>
+<p align="center">
+  <em>Diagrama 2: Secuencia de proceso de pago y confirmación</em>
+</p>
+
+### 2. Diagrama de Estados del Sistema
+<p align="center">
+  <img src="../Imagenes/Diagrama de Estados.jpg" alt="Diagrama de Estados" width="800">
+</p>
+<p align="center">
+  <em>Diagrama 3: Estados y transiciones del sistema</em>
+</p>
+
+### 3. Prototipos de Interfaz de Usuario
+A continuación se presentan las imágenes del prototipo de la interfaz de usuario:
+
+<p align="center">
+  <img src="../Imagenes/Corte%203/prototipo_inicio.png" alt="Pantalla de inicio" width="800">
+</p>
+<p align="center">
+  <em>Prototipo 1: Pantalla de inicio</em>
+</p>
+
+<p align="center">
+  <img src="../Imagenes/Corte%203/prototipo_catalogo.png" alt="Catálogo de productos" width="800">
+</p>
+<p align="center">
+  <em>Prototipo 2: Catálogo de productos</em>
+</p>
+
+<p align="center">
+  <img src="../Imagenes/Corte%203/prototipo_detalle_producto.png" alt="Detalle de producto" width="800">
+</p>
+<p align="center">
+  <em>Prototipo 3: Detalle de producto</em>
+</p>
+
+<p align="center">
+  <img src="../Imagenes/Corte%203/prototipo_carrito.png" alt="Carrito de compras" width="800">
+</p>
+<p align="center">
+  <em>Prototipo 4: Carrito de compras</em>
+</p>
+
+<p align="center">
+  <img src="../Imagenes/Corte%203/prototipo_registro.png" alt="Registro de usuario" width="800">
+</p>
+<p align="center">
+  <em>Prototipo 5: Registro de usuario</em>
+</p>
+
+<p align="center">
+  <img src="../Imagenes/Corte%203/prototipo_login.png" alt="Inicio de sesión" width="800">
+</p>
+<p align="center">
+  <em>Prototipo 6: Inicio de sesión</em>
+</p>
+
+<p align="center">
+  <img src="../Imagenes/Corte%203/prototipo_perfil_usuario.png" alt="Perfil de usuario" width="800">
+</p>
+<p align="center">
+  <em>Prototipo 7: Perfil de usuario</em>
+</p>
 
   > **Ubicación:**  
   > `Documentos/Docs de Tareas Asignadas/Imagenes/Corte 3/`
