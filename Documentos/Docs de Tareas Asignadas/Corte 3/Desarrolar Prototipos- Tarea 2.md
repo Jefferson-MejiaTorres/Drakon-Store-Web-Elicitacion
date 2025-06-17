@@ -53,17 +53,34 @@ Incluye:
 - Diagrama de Estados – Pedido
 
 ### Diagrama de Secuencia: Ingreso y compra en el sitio web
+## Diagramas del Sistema
 
-<div align="center">
-  <figure>
-    <img src="../Imagenes/Diagrama de secuencia compra(Paso a Paso) parte 1.png" alt="Diagrama de Secuencia - Ingreso y compra (Parte 1)" width="700" />
-    <figcaption><b>Diagrama de Secuencia - Ingreso y compra (Parte 1)</b></figcaption>
-  </figure>
-  <figure>
-    <img src="../Imagenes/Diagrama de secuencia compra(Paso a Paso) parte 2.png" alt="Diagrama de Secuencia - Ingreso y compra (Parte 2)" width="700" />
-    <figcaption><b>Diagrama de Secuencia - Ingreso y compra (Parte 2)</b></figcaption>
-  </figure>
-</div>
+### 1. Diagrama de Secuencia: Proceso de Ingreso y Compra
+
+#### Parte 1 - Ingreso y Selección
+<p align="center">
+  <img src="../Imagenes/Diagrama de secuencia compra(Paso a Paso) parte 1.png" alt="Diagrama de Secuencia - Parte 1" width="800">
+</p>
+<p align="center">
+  <em>Diagrama 1: Secuencia de ingreso y selección de productos</em>
+</p>
+
+#### Parte 2 - Proceso de Pago
+<p align="center">
+  <img src="../Imagenes/Diagrama de secuencia compra(Paso a Paso) parte 2.png" alt="Diagrama de Secuencia - Parte 2" width="800">
+</p>
+<p align="center">
+  <em>Diagrama 2: Secuencia de proceso de pago y confirmación</em>
+</p>
+
+### 2. Diagrama de Estados del Sistema
+<p align="center">
+  <img src="../Imagenes/Diagrama de Estados.jpg" alt="Diagrama de Estados" width="800">
+</p>
+<p align="center">
+  <em>Diagrama 3: Estados y transiciones del sistema</em>
+</p>
+
 
 #### Conflictos detectados durante el análisis
 - Ambigüedad en métodos de pago: No se define prioridad ni manejo cuando un método falla (tarjeta vs. PayPal vs. transferencia).
