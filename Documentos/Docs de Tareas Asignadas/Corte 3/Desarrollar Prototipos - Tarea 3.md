@@ -20,13 +20,44 @@ El prototipo no será la base del desarrollo final, sino una herramienta de vali
 - **Prototipo del sistema:**  
   A continuación se presentan las imágenes del prototipo de la interfaz de usuario, ubicadas en la carpeta `Imagenes/Corte 3/`:
 
-  - ![Pantalla de inicio](../Imagenes/Corte%203/prototipo_inicio.png)
-  - ![Catálogo de productos](../Imagenes/Corte%203/prototipo_catalogo.png)
-  - ![Detalle de producto](../Imagenes/Corte%203/prototipo_detalle_producto.png)
-  - ![Carrito de compras](../Imagenes/Corte%203/prototipo_carrito.png)
-  - ![Registro de usuario](../Imagenes/Corte%203/prototipo_registro.png)
-  - ![Inicio de sesión](../Imagenes/Corte%203/prototipo_login.png)
-  - ![Perfil de usuario](../Imagenes/Corte%203/prototipo_perfil_usuario.png)
+  <div align="center">
+  
+  <figure>
+    <img src="../Imagenes/Corte%203/prototipo_inicio.png" alt="Pantalla de inicio" width="350" />
+    <figcaption><b>Pantalla de inicio</b></figcaption>
+  </figure>
+  
+  <figure>
+    <img src="../Imagenes/Corte%203/prototipo_catalogo.png" alt="Catálogo de productos" width="350" />
+    <figcaption><b>Catálogo de productos</b></figcaption>
+  </figure>
+  
+  <figure>
+    <img src="../Imagenes/Corte%203/prototipo_detalle_producto.png" alt="Detalle de producto" width="350" />
+    <figcaption><b>Detalle de producto</b></figcaption>
+  </figure>
+  
+  <figure>
+    <img src="../Imagenes/Corte%203/prototipo_carrito.png" alt="Carrito de compras" width="350" />
+    <figcaption><b>Carrito de compras</b></figcaption>
+  </figure>
+  
+  <figure>
+    <img src="../Imagenes/Corte%203/prototipo_registro.png" alt="Registro de usuario" width="350" />
+    <figcaption><b>Registro de usuario</b></figcaption>
+  </figure>
+  
+  <figure>
+    <img src="../Imagenes/Corte%203/prototipo_login.png" alt="Inicio de sesión" width="350" />
+    <figcaption><b>Inicio de sesión</b></figcaption>
+  </figure>
+  
+  <figure>
+    <img src="../Imagenes/Corte%203/prototipo_perfil_usuario.png" alt="Perfil de usuario" width="350" />
+    <figcaption><b>Perfil de usuario</b></figcaption>
+  </figure>
+  
+  </div>
 
   > **Ubicación:**  
   > `Documentos/Docs de Tareas Asignadas/Imagenes/Corte 3/`
