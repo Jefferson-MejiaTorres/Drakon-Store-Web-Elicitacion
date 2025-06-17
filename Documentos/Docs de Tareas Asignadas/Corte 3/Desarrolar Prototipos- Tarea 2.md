@@ -52,6 +52,19 @@ Incluye:
 - Diagrama de Actividad – Flujo de Compra
 - Diagrama de Estados – Pedido
 
+### Diagrama de Secuencia: Ingreso y compra en el sitio web
+
+<div align="center">
+  <figure>
+    <img src="../Imagenes/Diagrama de secuencia compra(Paso a Paso) parte 1.png" alt="Diagrama de Secuencia - Ingreso y compra (Parte 1)" width="700" />
+    <figcaption><b>Diagrama de Secuencia - Ingreso y compra (Parte 1)</b></figcaption>
+  </figure>
+  <figure>
+    <img src="../Imagenes/Diagrama de secuencia compra(Paso a Paso) parte 2.png" alt="Diagrama de Secuencia - Ingreso y compra (Parte 2)" width="700" />
+    <figcaption><b>Diagrama de Secuencia - Ingreso y compra (Parte 2)</b></figcaption>
+  </figure>
+</div>
+
 #### Conflictos detectados durante el análisis
 - Ambigüedad en métodos de pago: No se define prioridad ni manejo cuando un método falla (tarjeta vs. PayPal vs. transferencia).
 - Sesiones expiran sin notificación: Falta especificar comportamiento y mensaje al usuario si su sesión caduca durante checkout.
