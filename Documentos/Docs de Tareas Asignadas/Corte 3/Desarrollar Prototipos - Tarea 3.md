@@ -19,7 +19,7 @@ El prototipo no será la base del desarrollo final, sino una herramienta de vali
 
 - **Prototipo del sistema:**  
   A continuación se presentan las imágenes del prototipo de la interfaz de usuario, ubicadas en la carpeta `Imagenes/Corte 3/`:
-
+Prototipo del sistema:
   - ![Pantalla de inicio](../Imagenes/Corte%203/prototipo_inicio.png)
   - ![Catálogo de productos](../Imagenes/Corte%203/prototipo_catalogo.png)
   - ![Detalle de producto](../Imagenes/Corte%203/prototipo_detalle_producto.png)
