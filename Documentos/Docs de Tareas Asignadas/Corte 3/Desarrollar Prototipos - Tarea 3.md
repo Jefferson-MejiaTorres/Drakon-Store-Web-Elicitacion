@@ -84,7 +84,3 @@ A continuación se presentan las imágenes del prototipo de la interfaz de usuar
 
 - **Prototipado de sistemas software:**  
   Se utilizó la técnica de prototipado desechable (ver sección 4.6 de la metodología), generando pantallas clave del sistema para su revisión y validación con usuarios y clientes.
-
----
-
-**Nota:** Las imágenes del prototipo deben guardarse en la carpeta `Documentos/Docs de Tareas Asignadas/Corte 3/Imagenes/Corte 3/` con los nombres sugeridos para que se puedan referenciar correctamente en este documento.
