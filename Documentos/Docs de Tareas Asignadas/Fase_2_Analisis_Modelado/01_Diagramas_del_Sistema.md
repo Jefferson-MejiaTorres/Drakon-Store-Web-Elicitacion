@@ -2,7 +2,8 @@
 
 **Proyecto:** Drakon Store  
 **Versión:** 1.0  
-**Fec### 4.4 Diagramas de Actividades
+**Fecha de revisión:** 17 de septiembre de 2025
+**Autor:** Jefferson Torres
 
 #### Actividad de Compra
 
@@ -29,7 +30,7 @@
 </p>
 <p align="center">
   <em>Diagrama 9: Flujo de actividades para el registro de usuario</em>
-</p>ayo de 2025
+</p>
 
 ## 1. Introducción
 
