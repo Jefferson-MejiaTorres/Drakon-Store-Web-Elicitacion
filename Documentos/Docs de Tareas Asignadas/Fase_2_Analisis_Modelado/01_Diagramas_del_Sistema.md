@@ -2,35 +2,8 @@
 
 **Proyecto:** Drakon Store  
 **Versión:** 1.0  
-**Fecha de revisión:** 17 de septiembre de 2025
+**Fecha de revisión:** 17 de septiembre de 2025  
 **Autor:** Jefferson Torres
-
-#### Actividad de Compra
-
-<p align="center">
-  <img src="../Imagenes/Fase_2_Modelado/Diagrama de Actividad(Compra).png" alt="Actividad Compra" width="800">
-</p>
-<p align="center">
-  <em>Diagrama 7: Flujo de actividades para el proceso de compra</em>
-</p>
-
-#### Actividad de Inicio de Sesión
-
-<p align="center">
-  <img src="../Imagenes/Fase_1_Requisitos/Diagrama de Actividad(Inicio de Sesión Usuario).png" alt="Actividad Inicio de Sesión" width="800">
-</p>
-<p align="center">
-  <em>Diagrama 8: Flujo de actividades para inicio de sesión</em>
-</p>
-
-#### Actividad de Registro
-
-<p align="center">
-  <img src="../Imagenes/Fase_1_Requisitos/Diagrama de Actividad(Registro).png" alt="Actividad Registro" width="800">
-</p>
-<p align="center">
-  <em>Diagrama 9: Flujo de actividades para el registro de usuario</em>
-</p>
 
 ## 1. Introducción
 
@@ -38,9 +11,9 @@ Este documento recopila y explica los principales diagramas utilizados para mode
 
 ## 2. Índice de Diagramas
 - Diagrama de Casos de Uso
-- Diagrama de Clases
-- Diagrama de Secuencia
-- Diagrama de Actividades
+- Diagrama de Clases / Modelo de Datos
+- Diagramas de Secuencia
+- Diagramas de Actividades
 - Diagrama de Arquitectura (opcional)
 
 ## 3. Justificación de los Diagramas
@@ -118,34 +91,50 @@ Cada diagrama incluido responde a la necesidad de documentar distintos aspectos 
 </p>
 
 **Descripción:**
-- Muestra paso a paso la interacción entre el usuario y el sistema durante el registro.
+- Muestra paso a paso la interacción entre el usuario y el sistema durante el proceso de compra.
 - Incluye validaciones, respuestas y almacenamiento en base de datos.
 
 ### 4.4 Diagramas de Actividades
 
-**Compra:**
+#### Actividad de Registro
 
-![Actividad Compra](../Imagenes/Fase_2_Modelado/Diagrama%20de%20Actividad(Compra).png)
+<p align="center">
+  <img src="../Imagenes/Fase_1_Requisitos/Diagrama de Actividad(Registro).png" alt="Actividad Registro" width="800">
+</p>
+<p align="center">
+  <em>Diagrama 7: Flujo de actividades para el registro de usuario</em>
+</p>
 
-**Inicio de Sesión Usuario:**
+#### Actividad de Inicio de Sesión
 
-![Actividad Inicio de Sesión](../Imagenes/Fase_1_Requisitos/Diagrama%20de%20Actividad(Inicio%20de%20Sesión%20Usuario).png)
+<p align="center">
+  <img src="../Imagenes/Fase_1_Requisitos/Diagrama de Actividad(Inicio de Sesión Usuario).png" alt="Actividad Inicio de Sesión" width="800">
+</p>
+<p align="center">
+  <em>Diagrama 8: Flujo de actividades para inicio de sesión</em>
+</p>
 
-**Registro:**
+#### Actividad de Compra
 
-![Actividad Registro](../Imagenes/Fase_1_Requisitos/Diagrama%20de%20Actividad(Registro).png)
+<p align="center">
+  <img src="../Imagenes/Fase_2_Modelado/Diagrama de Actividad(Compra).png" alt="Actividad Compra" width="800">
+</p>
+<p align="center">
+  <em>Diagrama 9: Flujo de actividades para el proceso de compra</em>
+</p>
 
 **Descripción:**
-- Cada diagrama muestra el flujo de actividades para procesos clave: compra, inicio de sesión y registro.
+- Cada diagrama muestra el flujo de actividades para procesos clave: registro, inicio de sesión y compra.
 - Permiten visualizar las decisiones, validaciones y estados involucrados en cada proceso.
 
 ### 4.5 Diagrama de Arquitectura (opcional)
 
-
+*En desarrollo - Se incluirá en futuras versiones del documento*
 
 ## 5. Conclusiones
 
 Los diagramas presentados permiten comprender de manera integral el funcionamiento y la estructura del sistema Drakon Store Web, facilitando la validación y comunicación de los requisitos y soluciones propuestas.
 
-**Autor:** Jefferson Torres
 **Revisado por:** Equipo Drakon Store
+
+---
