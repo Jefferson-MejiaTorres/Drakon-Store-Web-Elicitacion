@@ -2,7 +2,34 @@
 
 **Proyecto:** Drakon Store  
 **Versión:** 1.0  
-**Fecha:** 22 de mayo de 2025
+**Fec### 4.4 Diagramas de Actividades
+
+#### Actividad de Compra
+
+<p align="center">
+  <img src="../Imagenes/Fase_2_Modelado/Diagrama de Actividad(Compra).png" alt="Actividad Compra" width="800">
+</p>
+<p align="center">
+  <em>Diagrama 7: Flujo de actividades para el proceso de compra</em>
+</p>
+
+#### Actividad de Inicio de Sesión
+
+<p align="center">
+  <img src="../Imagenes/Fase_1_Requisitos/Diagrama de Actividad(Inicio de Sesión Usuario).png" alt="Actividad Inicio de Sesión" width="800">
+</p>
+<p align="center">
+  <em>Diagrama 8: Flujo de actividades para inicio de sesión</em>
+</p>
+
+#### Actividad de Registro
+
+<p align="center">
+  <img src="../Imagenes/Fase_1_Requisitos/Diagrama de Actividad(Registro).png" alt="Actividad Registro" width="800">
+</p>
+<p align="center">
+  <em>Diagrama 9: Flujo de actividades para el registro de usuario</em>
+</p>ayo de 2025
 
 ## 1. Introducción
 
@@ -27,7 +54,12 @@ Cada diagrama incluido responde a la necesidad de documentar distintos aspectos 
 
 ### 4.1 Diagrama de Casos de Uso
 
-![Casos de Uso](Imagenes/Diagrama%20de%20Caso%20de%20Uso%20(Registro).png)
+<p align="center">
+  <img src="../Imagenes/Fase_1_Requisitos/Diagrama de Caso de Uso (Registro).png" alt="Casos de Uso - Registro" width="800">
+</p>
+<p align="center">
+  <em>Diagrama 1: Casos de uso del proceso de registro</em>
+</p>
 
 **Descripción:**
 - Muestra el proceso de registro de usuario en el sistema, identificando los actores principales (usuario, sistema) y los pasos clave.
@@ -35,7 +67,12 @@ Cada diagrama incluido responde a la necesidad de documentar distintos aspectos 
 
 ### 4.2 Diagrama de Clases / Modelo de Datos
 
-![Modelo de Datos](Imagenes/Diagrama%20Modelo%20De%20Datos.jpg)
+<p align="center">
+  <img src="../Imagenes/Fase_2_Modelado/Diagrama Modelo De Datos.jpg" alt="Modelo de Datos" width="800">
+</p>
+<p align="center">
+  <em>Diagrama 2: Modelo de datos del sistema</em>
+</p>
 
 **Descripción:**
 - Presenta las entidades principales del sistema, sus atributos y las relaciones entre ellas.
@@ -43,24 +80,41 @@ Cada diagrama incluido responde a la necesidad de documentar distintos aspectos 
 
 ### 4.3 Diagramas de Secuencia
 
-**Registro paso a paso:**
+#### Secuencia de Registro - Paso a Paso
 
-![Secuencia 1](Imagenes/Diagrama%20de%20Secuencia(Paso%20a%20%20Paso).png)
+<p align="center">
+  <img src="../Imagenes/Fase_2_Modelado/Diagrama de Secuencia(Paso a  Paso).png" alt="Secuencia Registro - Parte 1" width="800">
+</p>
+<p align="center">
+  <em>Diagrama 3: Secuencia de registro - Parte 1</em>
+</p>
 
-
-**Continuación:**
-
-![Secuencia 2](Imagenes/Diagrama%20de%20Secuencia(Paso%20a%20%20Paso)%20Parte%202.png)
+<p align="center">
+  <img src="../Imagenes/Fase_2_Modelado/Diagrama de Secuencia(Paso a  Paso) Parte 2.png" alt="Secuencia Registro - Parte 2" width="800">
+</p>
+<p align="center">
+  <em>Diagrama 4: Secuencia de registro - Parte 2</em>
+</p>
 
 **Descripción:**
 - Representan el flujo detallado de interacción entre usuario y sistema durante el proceso de registro y validación.
 - Explican cómo se gestionan los datos y las respuestas del sistema en cada paso.
 
-**Registro paso a paso compra:**
-![Diagrama de Registro Parte 1](/Imagenes/Diagrama%20de%20secuencia%20compra(Paso%20a%20Paso)%20parte%201.png)
+#### Secuencia de Compra - Paso a Paso
 
+<p align="center">
+  <img src="../Imagenes/Fase_2_Modelado/Diagrama de secuencia compra(Paso a Paso) parte 1.png" alt="Secuencia Compra - Parte 1" width="800">
+</p>
+<p align="center">
+  <em>Diagrama 5: Secuencia de compra - Parte 1</em>
+</p>
 
-![Diagrama de Registro Parte 2](/Imagenes/Diagrama%20de%20secuencia%20compra(Paso%20a%20Paso)%20parte%202.png)
+<p align="center">
+  <img src="../Imagenes/Fase_2_Modelado/Diagrama de secuencia compra(Paso a Paso) parte 2.png" alt="Secuencia Compra - Parte 2" width="800">
+</p>
+<p align="center">
+  <em>Diagrama 6: Secuencia de compra - Parte 2</em>
+</p>
 
 **Descripción:**
 - Muestra paso a paso la interacción entre el usuario y el sistema durante el registro.
@@ -70,15 +124,15 @@ Cada diagrama incluido responde a la necesidad de documentar distintos aspectos 
 
 **Compra:**
 
-![Actividad Compra](Imagenes/Diagrama%20de%20Actividad(Compra).png)
+![Actividad Compra](../Imagenes/Fase_2_Modelado/Diagrama%20de%20Actividad(Compra).png)
 
 **Inicio de Sesión Usuario:**
 
-![Actividad Inicio de Sesión](Imagenes/Diagrama%20de%20Actividad(Inicio%20de%20Sesi%C3%B3n%20Usuario).png)
+![Actividad Inicio de Sesión](../Imagenes/Fase_1_Requisitos/Diagrama%20de%20Actividad(Inicio%20de%20Sesión%20Usuario).png)
 
 **Registro:**
 
-![Actividad Registro](Imagenes/Diagrama%20de%20Actividad(Registro).png)
+![Actividad Registro](../Imagenes/Fase_1_Requisitos/Diagrama%20de%20Actividad(Registro).png)
 
 **Descripción:**
 - Cada diagrama muestra el flujo de actividades para procesos clave: compra, inicio de sesión y registro.
