@@ -20,56 +20,56 @@ El prototipo no será la base del desarrollo final, sino una herramienta de vali
 A continuación se presentan las imágenes del prototipo de la interfaz de usuario:
 
 <p align="center">
-  <img src="../Imagenes/Corte%203/prototipo_inicio.png" alt="Pantalla de inicio" width="800">
+  <img src="../Imagenes/Fase_3_Prototipos/prototipo_inicio.png" alt="Pantalla de inicio" width="800">
 </p>
 <p align="center">
   <em>Prototipo 1: Pantalla de inicio</em>
 </p>
 
 <p align="center">
-  <img src="../Imagenes/Corte%203/prototipo_catalogo.png" alt="Catálogo de productos" width="800">
+  <img src="../Imagenes/Fase_3_Prototipos/prototipo_catalogo.png" alt="Catálogo de productos" width="800">
 </p>
 <p align="center">
   <em>Prototipo 2: Catálogo de productos</em>
 </p>
 
 <p align="center">
-  <img src="../Imagenes/Corte%203/prototipo_detalle_producto.png" alt="Detalle de producto" width="800">
+  <img src="../Imagenes/Fase_3_Prototipos/prototipo_detalle_producto.png" alt="Detalle de producto" width="800">
 </p>
 <p align="center">
   <em>Prototipo 3: Detalle de producto</em>
 </p>
 
 <p align="center">
-  <img src="../Imagenes/Corte%203/prototipo_carrito.png" alt="Carrito de compras" height="600">
+  <img src="../Imagenes/Fase_3_Prototipos/prototipo_carrito.png" alt="Carrito de compras" height="600">
 </p>
 <p align="center">
   <em>Prototipo 4: Carrito de compras</em>
 </p>
 
 <p align="center">
-  <img src="../Imagenes/Corte%203/prototipo_registro.png" alt="Registro de usuario" height="600">
+  <img src="../Imagenes/Fase_3_Prototipos/prototipo_registro.png" alt="Registro de usuario" height="600">
 </p>
 <p align="center">
   <em>Prototipo 5: Registro de usuario</em>
 </p>
 
 <p align="center">
-  <img src="../Imagenes/Corte%203/prototipo_login.png" alt="Inicio de sesión" height="600">
+  <img src="../Imagenes/Fase_3_Prototipos/prototipo_login.png" alt="Inicio de sesión" height="600">
 </p>
 <p align="center">
   <em>Prototipo 6: Inicio de sesión</em>
 </p>
 
 <p align="center">
-  <img src="../Imagenes/Corte%203/prototipo_perfil_usuario.png" alt="Perfil de usuario" height="600">
+  <img src="../Imagenes/Fase_3_Prototipos/prototipo_perfil_usuario.png" alt="Perfil de usuario" height="600">
 </p>
 <p align="center">
   <em>Prototipo 7: Perfil de usuario</em>
 </p>
 
   > **Ubicación:**  
-  > `Documentos/Docs de Tareas Asignadas/Imagenes/Corte 3/`
+  > `Documentos/Docs de Tareas Asignadas/Imagenes/Fase_3_Prototipos/`
 
 - **Aspectos de interfaz de usuario del modelo de comportamiento:**  
   Se relacionan los prototipos con los escenarios y flujos del modelo de comportamiento (DAS), permitiendo validar la experiencia de usuario y la coherencia con los requisitos funcionales.

@@ -59,7 +59,7 @@ Incluye:
 
 #### Parte 1 - Ingreso y Selección
 <p align="center">
-  <img src="../Imagenes/Diagrama de secuencia compra(Paso a Paso) parte 1.png" alt="Diagrama de Secuencia - Parte 1" width="800">
+  <img src="../Imagenes/Fase_2_Modelado/Diagrama de secuencia compra(Paso a Paso) parte 1.png" alt="Diagrama de Secuencia - Parte 1" width="800">
 </p>
 <p align="center">
   <em>Diagrama 1: Secuencia de ingreso y selección de productos</em>
@@ -67,7 +67,7 @@ Incluye:
 
 #### Parte 2 - Proceso de Pago
 <p align="center">
-  <img src="../Imagenes/Diagrama de secuencia compra(Paso a Paso) parte 2.png" alt="Diagrama de Secuencia - Parte 2" width="800">
+  <img src="../Imagenes/Fase_2_Modelado/Diagrama de secuencia compra(Paso a Paso) parte 2.png" alt="Diagrama de Secuencia - Parte 2" width="800">
 </p>
 <p align="center">
   <em>Diagrama 2: Secuencia de proceso de pago y confirmación</em>
@@ -75,7 +75,7 @@ Incluye:
 
 ### 2. Diagrama de Estados del Sistema
 <p align="center">
-  <img src="../Imagenes/Diagrama de Estados.jpg" alt="Diagrama de Estados" width="800">
+  <img src="../Imagenes/Fase_2_Modelado/Diagrama de Estados.jpg" alt="Diagrama de Estados" width="800">
 </p>
 <p align="center">
   <em>Diagrama 3: Estados y transiciones del sistema</em>
