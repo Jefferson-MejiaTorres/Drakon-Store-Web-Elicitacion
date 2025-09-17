@@ -35,6 +35,8 @@
 # Descripción del Proyecto
 Drakon Store Web es una plataforma de comercio electrónico especializada en la venta de gorras, diseñada para expandir el alcance de la tienda física y mejorar la experiencia de compra de los clientes. El proyecto automatiza las ventas en línea, optimiza la gestión del inventario y proporciona una interfaz intuitiva y moderna.
 
+**Nota:** La documentación del proyecto ha sido completamente reorganizada siguiendo las fases de ingeniería de software para una mejor navegación y mantenimiento profesional.
+
 # Integrantes
 | Nombre                                 | Rol                  |
 |----------------------------------------|----------------------|
@@ -50,16 +52,25 @@ Drakon-Store-Web-Elicitacion/
 │   ├── images/Logo.png      # Logo de Drakon Store
 ├── Documentos/
 │   ├── Docs de Tareas Asignadas/
-│   │   ├── Requisitos del Software (DRS) Tarea 1.md
-│   │   ├── Requisitos del Software (DRS) Tarea 2.md
-│   │   ├── Requisitos del Software (DRS) Tarea 3.md
-│   │   ├── Requisitos del Software (DRS) Tarea 4.md
-│   │   ├── Requisitos del Software (DRS) Tarea 5.md
-│   │   ├── Requisitos del Software (DRS) Tarea 6.md
-│   │   └── Corte 3/
-│   │       ├── README-Tarea2-ModeloComportamiento.md   # Resumen Tarea 2: Modelo de comportamiento
-│   │       ├── Desarrollar Prototipos - Tarea 3.md     # Documento Tarea 3: Prototipos
-│   │       ├── ...
+│   │   ├── README.md        # Índice general de la documentación
+│   │   ├── Fase_1_Elicitacion_Requisitos/
+│   │   │   ├── 01_DRS_Elicitacion_Stakeholders.md
+│   │   │   ├── 02_DRS_Casos_de_Uso.md
+│   │   │   ├── 03_DRS_Requisitos_Funcionales.md
+│   │   │   ├── 04_DRS_Requisitos_No_Funcionales.md
+│   │   │   ├── 05_DRS_Especificacion_Detallada.md
+│   │   │   ├── 06_DRS_Revision_Final.md
+│   │   │   └── 07_Validacion_Requisitos_Encuesta.md
+│   │   ├── Fase_2_Analisis_Modelado/
+│   │   │   ├── 01_Diagramas_del_Sistema.md
+│   │   │   └── 02_Modelo_Comportamiento_Sistema.docx
+│   │   ├── Fase_3_Prototipado/
+│   │   │   ├── 01_Modelo_Comportamiento_Sistema.md
+│   │   │   └── 02_Prototipos_Interfaz_Usuario.md
+│   │   └── Imagenes/
+│   │       ├── Fase_1_Requisitos/     # Diagramas de casos de uso y actividades
+│   │       ├── Fase_2_Modelado/       # Diagramas de secuencia, estados y modelo de datos
+│   │       └── Fase_3_Prototipos/     # Prototipos de interfaz de usuario
 │   ├── versionado.md        # Hoja de versiones
 ├── README.md                # Documentación del proyecto
 ├── versionado.md            # Hoja de versiones del proyecto
@@ -118,14 +129,22 @@ No requiere instalación de dependencias adicionales ni configuración de servid
 # Documentación DRS
 | Documento | Descripción | Enlace |
 |-----------|-------------|--------|
-| Tarea 1   | Contexto y sistema actual | [Ver](Documentos/Docs%20de%20Tareas%20Asignadas/Requisitos%20del%20Software%20(DRS)%20Tarea%201.md) |
-| Tarea 2   | Reuniones de elicitación/negociación | [Ver](Documentos/Docs%20de%20Tareas%20Asignadas/Requisitos%20del%20Software%20(DRS)%20Tarea%202.md) |
-| Tarea 3   | Objetivos del sistema | [Ver](Documentos/Docs%20de%20Tareas%20Asignadas/Requisitos%20del%20Software%20(DRS)%20Tarea%203.md) |
-| Tarea 4   | Requisitos de información | [Ver](Documentos/Docs%20de%20Tareas%20Asignadas/Requisitos%20del%20Software%20(DRS)%20Tarea%204.md) |
-| Tarea 5   | Requisitos funcionales | [Ver](Documentos/Docs%20de%20Tareas%20Asignadas/Requisitos%20del%20Software%20(DRS)%20Tarea%205.md) |
-| Tarea 6   | Requisitos no funcionales | [Ver](Documentos/Docs%20de%20Tareas%20Asignadas/Requisitos%20del%20Software%20(DRS)%20Tarea%206.md) |
-| Validación de requisitos | Encuesta de satisfacción de usuarios | [Ver](Documentos/Docs%20de%20Tareas%20Asignadas/Validaci%C3%B3n%20de%20Requisitos%20-%20Encuesta%20de%20Satisfacci%C3%B3n.md) |
-| Diagramas del sistema | Diagramas de casos de uso, clases, secuencia, actividades y arquitectura | [Ver](Documentos/Docs%20de%20Tareas%20Asignadas/Diagramas%20del%20Sistema.md) |
+| **Índice General** | Guía completa de la documentación reorganizada | [Ver](Documentos/Docs%20de%20Tareas%20Asignadas/README.md) |
+| **Fase 1: Elicitación de Requisitos** | | |
+| Tarea 1   | Contexto y sistema actual | [Ver](Documentos/Docs%20de%20Tareas%20Asignadas/Fase_1_Elicitacion_Requisitos/01_DRS_Elicitacion_Stakeholders.md) |
+| Tarea 2   | Reuniones de elicitación/negociación | [Ver](Documentos/Docs%20de%20Tareas%20Asignadas/Fase_1_Elicitacion_Requisitos/02_DRS_Casos_de_Uso.md) |
+| Tarea 3   | Objetivos del sistema | [Ver](Documentos/Docs%20de%20Tareas%20Asignadas/Fase_1_Elicitacion_Requisitos/03_DRS_Requisitos_Funcionales.md) |
+| Tarea 4   | Requisitos de información | [Ver](Documentos/Docs%20de%20Tareas%20Asignadas/Fase_1_Elicitacion_Requisitos/04_DRS_Requisitos_No_Funcionales.md) |
+| Tarea 5   | Requisitos funcionales | [Ver](Documentos/Docs%20de%20Tareas%20Asignadas/Fase_1_Elicitacion_Requisitos/05_DRS_Especificacion_Detallada.md) |
+| Tarea 6   | Requisitos no funcionales | [Ver](Documentos/Docs%20de%20Tareas%20Asignadas/Fase_1_Elicitacion_Requisitos/06_DRS_Revision_Final.md) |
+| Validación | Encuesta de satisfacción de usuarios | [Ver](Documentos/Docs%20de%20Tareas%20Asignadas/Fase_1_Elicitacion_Requisitos/07_Validacion_Requisitos_Encuesta.md) |
+| **Fase 2: Análisis y Modelado** | | |
+| Diagramas del sistema | Diagramas UML completos del sistema | [Ver](Documentos/Docs%20de%20Tareas%20Asignadas/Fase_2_Analisis_Modelado/01_Diagramas_del_Sistema.md) |
+| Modelo de comportamiento | Modelo detallado del sistema | [Ver](Documentos/Docs%20de%20Tareas%20Asignadas/Fase_2_Analisis_Modelado/02_Modelo_Comportamiento_Sistema.docx) |
+| **Fase 3: Prototipado** | | |
+| Modelo de comportamiento | Modelado dinámico del sistema | [Ver](Documentos/Docs%20de%20Tareas%20Asignadas/Fase_3_Prototipado/01_Modelo_Comportamiento_Sistema.md) |
+| Prototipos de interfaz | Prototipos de la interfaz de usuario | [Ver](Documentos/Docs%20de%20Tareas%20Asignadas/Fase_3_Prototipado/02_Prototipos_Interfaz_Usuario.md) |
+| **Recursos** | | |
 | Hoja de versiones | Cambios y autoría | [Ver](versionado.md) |
 
 # Contribuciones
