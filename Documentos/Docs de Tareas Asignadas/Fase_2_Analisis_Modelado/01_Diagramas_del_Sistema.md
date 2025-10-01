@@ -14,7 +14,7 @@ Este documento recopila y explica los principales diagramas utilizados para mode
 - Diagrama de Clases / Modelo de Datos
 - Diagramas de Secuencia
 - Diagramas de Actividades
-- Diagrama de Arquitectura (opcional)
+- Diagrama de Comportamiento del Sistema
 
 ## 3. Justificación de los Diagramas
 Cada diagrama incluido responde a la necesidad de documentar distintos aspectos del sistema:
@@ -22,7 +22,7 @@ Cada diagrama incluido responde a la necesidad de documentar distintos aspectos 
 - **Clases:** Modelan la estructura de datos y relaciones entre entidades.
 - **Secuencia:** Representan la interacción temporal entre objetos/actores en escenarios clave.
 - **Actividades:** Describen flujos de procesos o tareas.
-- **Arquitectura:** (Opcional) Muestra la organización general de los componentes del sistema.
+- **Comportamiento:** Muestra la interacción y flujo completo del comportamiento del sistema.
 
 ## 4. Diagramas
 
@@ -127,9 +127,19 @@ Cada diagrama incluido responde a la necesidad de documentar distintos aspectos 
 - Cada diagrama muestra el flujo de actividades para procesos clave: registro, inicio de sesión y compra.
 - Permiten visualizar las decisiones, validaciones y estados involucrados en cada proceso.
 
-### 4.5 Diagrama de Arquitectura (opcional)
+### 4.5 Diagrama de Comportamiento del Sistema
 
-*En desarrollo - Se incluirá en futuras versiones del documento*
+<p align="center">
+  <img src="../Imagenes/Fase_2_Modelado/Diagrama de Comportamiento.jpg" alt="Diagrama de Comportamiento del Sistema" width="800">
+</p>
+<p align="center">
+  <em>Diagrama 10: Comportamiento y estados del sistema Drakon Store</em>
+</p>
+
+**Descripción:**
+- Representa el comportamiento dinámico del sistema y las transiciones entre diferentes estados.
+- Muestra cómo el sistema reacciona ante las acciones de los usuarios y eventos del entorno.
+- Facilita la comprensión del ciclo de vida de los objetos principales del sistema.
 
 ## 5. Conclusiones
 
