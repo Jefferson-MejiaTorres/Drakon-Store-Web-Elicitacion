@@ -145,6 +145,11 @@ Cada diagrama incluido responde a la necesidad de documentar distintos aspectos 
 
 Los diagramas presentados permiten comprender de manera integral el funcionamiento y la estructura del sistema Drakon Store Web, facilitando la validación y comunicación de los requisitos y soluciones propuestas.
 
+Para complementar el análisis del sistema, se recomienda consultar el documento de **Métricas y Análisis de Calidad** (`03_Metricas_y_Analisis_de_Calidad.md`) que incluye:
+- Análisis de fallos mediante diagramas de espina
+- Métricas de calidad del software
+- Metodologías de evaluación de procesos y productos
+
 **Revisado por:** Equipo Drakon Store
 
 ---

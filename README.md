@@ -63,7 +63,8 @@ Drakon-Store-Web-Elicitacion/
 │   │   │   └── 07_Validacion_Requisitos_Encuesta.md
 │   │   ├── Fase_2_Analisis_Modelado/
 │   │   │   ├── 01_Diagramas_del_Sistema.md
-│   │   │   └── 02_Modelo_Comportamiento_Sistema.docx
+│   │   │   ├── 02_Modelo_Comportamiento_Sistema.docx
+│   │   │   └── 03_Metricas_y_Analisis_de_Calidad.md
 │   │   ├── Fase_3_Prototipado/
 │   │   │   ├── 01_Modelo_Comportamiento_Sistema.md
 │   │   │   └── 02_Prototipos_Interfaz_Usuario.md
@@ -141,6 +142,7 @@ No requiere instalación de dependencias adicionales ni configuración de servid
 | **Fase 2: Análisis y Modelado** | | |
 | Diagramas del sistema | Diagramas UML completos del sistema | [Ver](Documentos/Docs%20de%20Tareas%20Asignadas/Fase_2_Analisis_Modelado/01_Diagramas_del_Sistema.md) |
 | Modelo de comportamiento | Modelo detallado del sistema | [Ver](Documentos/Docs%20de%20Tareas%20Asignadas/Fase_2_Analisis_Modelado/02_Modelo_Comportamiento_Sistema.docx) |
+| Métricas y análisis de calidad | Metodologías MEPS, análisis de fallos y evaluación de calidad del software | [Ver](Documentos/Docs%20de%20Tareas%20Asignadas/Fase_2_Analisis_Modelado/03_Metricas_y_Analisis_de_Calidad.md) |
 | **Fase 3: Prototipado** | | |
 | Modelo de comportamiento | Modelado dinámico del sistema | [Ver](Documentos/Docs%20de%20Tareas%20Asignadas/Fase_3_Prototipado/01_Modelo_Comportamiento_Sistema.md) |
 | Prototipos de interfaz | Prototipos de la interfaz de usuario | [Ver](Documentos/Docs%20de%20Tareas%20Asignadas/Fase_3_Prototipado/02_Prototipos_Interfaz_Usuario.md) |

@@ -1,8 +1,16 @@
 # Documentación del Proyecto Drakon Store
 
 **Proyecto:** Drakon Store Web  
-**Versión:** 2.0 (Reorganizada)  
-**Fecha de reorganización:** 17 de septiembre de 2025  
+**Versión:** 2.0 (Reorganiza## 📊 Estadísticas del Proyecto
+
+| Métrica | Valor |
+|---------|-------|
+| **Total de documentos** | 12 archivos |
+| **Diagramas UML** | 10 diagramas |
+| **Prototipos de interfaz** | 7 pantallas |
+| **Fases completadas** | 3/3 (100%) |
+| **Documentos reorganizados** | 12/12 (100%) |
+| **Rutas de imágenes corregidas** | ✅ Todas |echa de reorganización:** 17 de septiembre de 2025  
 **Autor:** Jefferson Torres  
 **Estado:** Documentación Completa y Reorganizada
 
@@ -32,18 +40,20 @@ Esta fase contiene todos los documentos relacionados con la identificación y es
 ### 🔧 Fase 2: Análisis y Modelado
 **Carpeta:** `Fase_2_Analisis_Modelado/`
 
-Esta fase incluye el análisis del sistema y la creación de modelos de comportamiento.
+Esta fase incluye el análisis del sistema, la creación de modelos de comportamiento y la evaluación de métricas de calidad.
 
 | Archivo | Descripción | Estado |
 |---------|-------------|---------|
 | `01_Diagramas_del_Sistema.md` | Diagramas UML completos del sistema | ✅ Actualizado |
 | `02_Modelo_Comportamiento_Sistema.docx` | Modelo detallado de comportamiento | ✅ Completo |
+| `03_Metricas_y_Analisis_de_Calidad.md` | Metodologías MEPS, análisis de fallos y métricas de software | ✅ Nuevo |
 
 **Diagramas incluidos:**
 - 📊 Diagramas de Casos de Uso
 - 🗂️ Modelo de Datos del Sistema
 - 🔄 Diagramas de Secuencia (Registro y Compra)
 - ⚡ Diagramas de Actividades (Registro, Login, Compra)
+- 🐟 Diagrama de Espina (Análisis de causas de errores)
 
 ### 🎨 Fase 3: Prototipado
 **Carpeta:** `Fase_3_Prototipado/`
@@ -79,6 +89,8 @@ Las imágenes están organizadas por fases para facilitar su localización y man
 #### 📁 `Fase_2_Modelado/`
 - `Diagrama Modelo De Datos.jpg`
 - `Diagrama de Estados.jpg`
+- `Diagrama De Comportamiento.png`
+- `Diagrama de Espina.png`
 - `Diagrama de Actividad(Compra).png`
 - `Diagrama de Secuencia(Paso a Paso).png`
 - `Diagrama de Secuencia(Paso a Paso) Parte 2.png`

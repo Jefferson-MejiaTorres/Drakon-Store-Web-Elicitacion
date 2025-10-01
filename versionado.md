@@ -23,4 +23,5 @@
 | 19 | 17/09/2025  | **Creación de documentación índice:** Nuevo README.md principal con estructura completa, estadísticas del proyecto y guías de navegación | Jefferson Mejía Torres |
 | 20 | 17/09/2025  | **Actualización del README general:** Modificación del README principal del repositorio para reflejar la nueva estructura profesional manteniendo el estilo original | Jefferson Mejía Torres |
 | 21 | 01/10/2025  | **Completar documentación de diagramas:** Reemplazo del diagrama de arquitectura pendiente por el diagrama de comportamiento del sistema existente en Fase_2_Modelado | Jefferson Mejía Torres |
+| 22 | 01/10/2025  | **Implementación de métricas de software:** Creación del documento 03_Metricas_y_Analisis_de_Calidad.md con metodologías MEPS, análisis de fallos, puntos de función e integración del diagrama de espina para evaluación de calidad del sistema | Jefferson Mejía Torres |
 
