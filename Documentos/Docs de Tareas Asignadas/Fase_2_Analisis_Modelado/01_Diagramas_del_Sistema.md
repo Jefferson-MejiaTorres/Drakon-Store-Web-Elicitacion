@@ -130,7 +130,7 @@ Cada diagrama incluido responde a la necesidad de documentar distintos aspectos 
 ### 4.5 Diagrama de Comportamiento del Sistema
 
 <p align="center">
-  <img src="../Imagenes/Fase_2_Modelado/Diagrama de Comportamiento.jpg" alt="Diagrama de Comportamiento del Sistema" width="1169">
+  <img src="../Imagenes/Fase_2_Modelado/Diagrama de Comportamiento.jpg" alt="Diagrama de Comportamiento del Sistema" width="800">
 </p>
 <p align="center">
   <em>Diagrama 10: Comportamiento y estados del sistema Drakon Store</em>
