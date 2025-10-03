@@ -183,5 +183,3 @@ Este proyecto sigue la metodología de **Durán & Bernárdez (2002)** para la in
 Este proyecto es parte de un trabajo académico de Ingeniería de Software.
 
 ---
-
-**Nota:** Esta reorganización mejora significativamente la estructura anterior que utilizaba referencias como "Corte 3", proporcionando una base más sólida y profesional para el desarrollo del proyecto Drakon Store Web. La nueva estructura facilita el mantenimiento, la navegación y la escalabilidad del proyecto.
