@@ -40,13 +40,14 @@ Esta fase contiene todos los documentos relacionados con la identificación y es
 ### 🔧 Fase 2: Análisis y Modelado
 **Carpeta:** `Fase_2_Analisis_Modelado/`
 
-Esta fase incluye el análisis del sistema, la creación de modelos de comportamiento y la evaluación de métricas de calidad.
+Esta fase incluye el análisis del sistema, la creación de modelos de comportamiento, evaluación de métricas de calidad y gestión de riesgos del proyecto.
 
 | Archivo | Descripción | Estado |
 |---------|-------------|---------|
 | `01_Diagramas_del_Sistema.md` | Diagramas UML completos del sistema | ✅ Actualizado |
 | `02_Modelo_Comportamiento_Sistema.docx` | Modelo detallado de comportamiento | ✅ Completo |
-| `03_Metricas_y_Analisis_de_Calidad.md` | Metodologías MEPS, análisis de fallos y métricas de software | ✅ Nuevo |
+| `03_Metricas_y_Analisis_de_Calidad.md` | Metodologías MEPS, análisis de fallos y métricas de software | ✅ Completo |
+| `04_Analisis_Gestion_Riesgos.md` | Análisis y gestión proactiva de riesgos del proyecto | ✅ Nuevo |
 
 **Diagramas incluidos:**
 - 📊 Diagramas de Casos de Uso
@@ -54,6 +55,7 @@ Esta fase incluye el análisis del sistema, la creación de modelos de comportam
 - 🔄 Diagramas de Secuencia (Registro y Compra)
 - ⚡ Diagramas de Actividades (Registro, Login, Compra)
 - 🐟 Diagrama de Espina (Análisis de causas de errores)
+- ⚠️ Tabla de Riesgos y Plan RSGR
 
 ### 🎨 Fase 3: Prototipado
 **Carpeta:** `Fase_3_Prototipado/`

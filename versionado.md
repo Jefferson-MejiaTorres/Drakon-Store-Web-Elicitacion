@@ -24,4 +24,5 @@
 | 20 | 17/09/2025  | **Actualización del README general:** Modificación del README principal del repositorio para reflejar la nueva estructura profesional manteniendo el estilo original | Jefferson Mejía Torres |
 | 21 | 01/10/2025  | **Completar documentación de diagramas:** Reemplazo del diagrama de arquitectura pendiente por el diagrama de comportamiento del sistema existente en Fase_2_Modelado | Jefferson Mejía Torres |
 | 22 | 01/10/2025  | **Implementación de métricas de software:** Creación del documento 03_Metricas_y_Analisis_de_Calidad.md con metodologías MEPS, análisis de fallos, puntos de función e integración del diagrama de espina para evaluación de calidad del sistema | Jefferson Mejía Torres |
+| 23 | 10/10/2025  | **Análisis y gestión de riesgos:** Creación del documento 04_Analisis_Gestion_Riesgos.md con identificación sistemática de riesgos, tabla de evaluación de probabilidades e impactos, y plan RSGR (Reducción, Supervisión y Gestión del Riesgo) para el proyecto | Jefferson Mejía Torres |
 
