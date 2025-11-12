@@ -1120,6 +1120,4 @@ Fecha: ________________________
 
 ---
 
-**Próximo documento**: `02_Casos_de_Prueba_Detallados.md` - Fichas técnicas completas de todos los casos de prueba identificados.
-
 **Nota**: Este plan de pruebas es un documento vivo que se actualizará según evolucione el proyecto. Cualquier cambio significativo requerirá una nueva aprobación de los stakeholders correspondientes.
