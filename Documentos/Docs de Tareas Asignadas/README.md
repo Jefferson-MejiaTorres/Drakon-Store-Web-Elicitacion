@@ -5,11 +5,12 @@
 
 | Métrica | Valor |
 |---------|-------|
-| **Total de documentos** | 12 archivos |
+| **Total de documentos** | 15+ archivos |
 | **Diagramas UML** | 10 diagramas |
 | **Prototipos de interfaz** | 7 pantallas |
-| **Fases completadas** | 3/3 (100%) |
-| **Documentos reorganizados** | 12/12 (100%) |
+| **Casos de prueba** | 48 casos detallados |
+| **Fases completadas** | 4/4 (100%) |
+| **Documentos reorganizados** | 15/15 (100%) |
 | **Rutas de imágenes corregidas** | ✅ Todas |echa de reorganización:** 17 de septiembre de 2025  
 **Autor:** Jefferson Torres  
 **Estado:** Documentación Completa y Reorganizada
@@ -75,6 +76,35 @@ Esta fase contiene el desarrollo de prototipos y modelado de la interfaz de usua
 - 📝 Registro de usuario
 - 🔐 Inicio de sesión
 - 👤 Perfil de usuario
+
+### 🧪 Fase 4: Pruebas
+**Carpeta:** `Fase_4_Pruebas/`
+
+Esta fase contiene toda la documentación y gestión de las pruebas del sistema, incluyendo plan de pruebas, casos de prueba, evidencias, reportes y gestión de defectos.
+
+| Archivo | Descripción | Estado |
+|---------|-------------|---------|
+| `01_Plan_de_Pruebas.md` | Plan maestro de pruebas basado en ISO/IEC/IEEE 29119 | ✅ Completo |
+| `02_Casos_de_Prueba_Detallados.md` | 48 casos de prueba con precondiciones y pasos detallados | ✅ Completo |
+| `03_Informe_Ejecucion_Pruebas.md` | Template para informe de resultados de ejecución | ✅ Template |
+| `README.md` | Documentación completa de la Fase 4 | ✅ Completo |
+
+**Subcarpetas:**
+
+#### Evidencias/
+- `Screenshots/` - Capturas de pantalla de casos de prueba y defectos
+- `Videos/` - Grabaciones de flujos y reproducción de errores
+- `Logs/` - Archivos de registro del sistema (console, network, errors)
+
+#### Reportes/
+- `Diarios/` - Reportes de progreso diario con métricas y bloqueadores
+- `Semanales/` - Resúmenes semanales para stakeholders con análisis de tendencias
+- `Final/` - Reporte final consolidado con recomendación GO/NO-GO
+
+#### Defectos/
+- Sistema de gestión de defectos con tracking completo
+- Plantillas y convenciones para reporte de bugs
+- Métricas y análisis de defectos
 
 ## 🖼️ Recursos Gráficos
 
