@@ -44,6 +44,7 @@ Drakon Store Web es una plataforma de comercio electrónico especializada en la 
 | Luis Miguel Lindarte Contreras         | Analista / Desarrollador |
 | Daniel Felipe Contreras Caballero      | Analista / Desarrollador |
 | David Rojas Rodriguez                  | Analista / Desarrollador |
+| Juan Felipe Portilla Galvix            | Analista / Desarrollador |
 | Juan Diego Torres               | Analista / Desarrollador |
 
 # Estructura del Proyecto
